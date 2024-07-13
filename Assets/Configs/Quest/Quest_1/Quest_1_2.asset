@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fbc1d78e6c84cfc40af23209e0c287cb, type: 3}
+  m_Name: Quest_1_2
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  questID: Quest_1
+  questStepIndex: 1
+  dialogueID: Dialogue_Quest_1_2
+  timelineID: 
+  questStepName: Survival after perilous struggle
+  questStepDescription: Surrounded by monster beasts! The only way out is... I have
+    to do this!
+  questStepText: To eliminate all five surrounding monster beasts!
+  questStepTargetNumber: 5
+  questStepPrefab: {fileID: 1225591307507633165, guid: a192ba28e7c5b1644bdbff1e62ee7846, type: 3}
